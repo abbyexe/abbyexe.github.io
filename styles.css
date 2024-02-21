@@ -54,7 +54,7 @@ body {
 .btn button {
     padding: 10px 20px;
     border: none;
-    margin: 9px;
+    margin: 7px;
     border-radius: 5px;
     background-color: #313131;
     color: #fff;
@@ -73,6 +73,10 @@ body {
 }
 .btn3 button:hover {
     background-color: #0077b5;
+}
+
+.btn3.1 button:hover {
+    background-color: #1ED760;
 }
 .btn4 button:hover {
     color: #333;
