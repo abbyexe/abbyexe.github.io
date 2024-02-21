@@ -1,2 +1,2 @@
 # Homepage of abby.github.io
-![screenshot](screenshot.jpg)
+![screenshot](screenshot.png)
