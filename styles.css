@@ -48,43 +48,51 @@ body {
     font-variation-settings:
       "slnt" ;
     text-align: center;
+    padding-bottom: 0;
 
 }
 
 .btn button {
     padding: 10px 20px;
     border: none;
-    margin: 8px;
+    margin: 7px;
     border-radius: 5px;
     background-color: #313131;
     color: #fff;
     font-family: 'Ubuntu', sans-serif;
     font-weight: 400;
     cursor: pointer;
-    transition: background-color 0.3s ease;
+    transition: background-color 2.5s ease;
     width: 100px; 
 }
 
 .btn1 button:hover {
     background-color: #ff00aa;
+    transition: background-color .5s ease;
 }
 .btn2 button:hover {
-    background-color: #24292e;
+    background-color: #858585;
+    transition: background-color .5s ease;
 }
 .btn3 button:hover {
     background-color: #0077b5;
+    transition: background-color .5s ease;
+    
 }
 
-.btn3.1 button:hover {
-    background-color: #1ED760;
+.btn6 button:hover {
+    background-color: #1DB954;
+    transition: background-color .5s ease;
 }
 .btn4 button:hover {
     color: #333;
     background-color: #7ffffb;
+    transition: background-color .5s ease;
 }
 .btn5 button:hover {
     color: #333;
     background-color: #ffffff;
+    transition: background-color .5s ease;
 }
 
 @media screen and (max-width: 600px) {
